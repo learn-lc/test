@@ -3,5 +3,10 @@
 456
 789
 789
+<<<<<<< HEAD
 12345648789
 123165465
+=======
+123
+789465321
+>>>>>>> branch 'master' of https://github.com/learn-lc/test.git
